@@ -1,4 +1,4 @@
-// src/components/EditProduct.tsx
+
 import React, { useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { Form, Button, Input, InputNumber, Select, Spin, Card, Row, Col } from 'antd';

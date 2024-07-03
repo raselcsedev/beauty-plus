@@ -1,4 +1,4 @@
-// src/components/ProductDetail.tsx
+
 import React from 'react';
 import { useParams , Link } from 'react-router-dom';
 import { useGetProductByIdQuery } from '../app/apiSlice';

@@ -1,4 +1,4 @@
-// src/components/ProductList.tsx
+
 import React, { useState } from 'react';
 import { Table, Button, Pagination } from 'antd';
 import { useGetProductsQuery } from '../app/apiSlice';
